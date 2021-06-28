@@ -18,8 +18,7 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
-```
 
-Deployed Link: https://neo1coder.github.io/code-quiz/
+[Deployed Link](https://neo1coder.github.io/code-quiz/)
 
-Git Repo:  https://github.com/Neo1Coder/code-quiz
+[Git Hub Repo](https://github.com/Neo1Coder/code-quiz)
