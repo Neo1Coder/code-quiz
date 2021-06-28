@@ -21,4 +21,5 @@ THEN I can save my initials and my score
 ```
 
 Deployed Link: https://neo1coder.github.io/code-quiz/
-Git Repo: https://github.com/Neo1Coder/code-quiz
+
+Git Repo:  https://github.com/Neo1Coder/code-quiz
