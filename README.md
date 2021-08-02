@@ -33,4 +33,4 @@ THEN I can save my initials and my score
 
 [Git Hub Repo](https://github.com/Neo1Coder/code-quiz)
 
-![website image](./assets/images/codeQuiz.png)
+![website image](./assets/Images/codeQuiz.png)
