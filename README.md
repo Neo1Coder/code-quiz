@@ -29,8 +29,8 @@ THEN I can save my initials and my score
 
 ```
 
-[Deployed Link](https://neo1coder.github.io/code-quiz/)
+[Deployed Link](https://mus-ali1.github.io/code-quiz/)
 
-[Git Hub Repo](https://github.com/Neo1Coder/code-quiz)
+[Git Hub Repo](https://github.com/mus-ali1/code-quiz)
 
 ![website image](./assets/Images/codeQuiz.png)
