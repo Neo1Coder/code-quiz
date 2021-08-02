@@ -22,3 +22,5 @@ THEN I can save my initials and my score
 [Deployed Link](https://neo1coder.github.io/code-quiz/)
 
 [Git Hub Repo](https://github.com/Neo1Coder/code-quiz)
+
+![website image](./assets/images/codeQuiz.png)
